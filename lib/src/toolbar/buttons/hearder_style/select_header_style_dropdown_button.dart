@@ -114,6 +114,9 @@ class _QuillToolbarSelectHeaderStyleDropdownButtonState
           Attribute.h1,
           Attribute.h2,
           Attribute.h3,
+          Attribute.h4,
+          Attribute.h5,
+          Attribute.h6,
           Attribute.header,
         ];
   }
